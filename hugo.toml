@@ -12,3 +12,8 @@ enableGitInfo = true
   BookComments = false
   BookPortableLinks = true
   BookServiceWorker = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
