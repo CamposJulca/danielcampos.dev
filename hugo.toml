@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Daniel Campos"
+theme = "hugo-book"
+
+enableGitInfo = true
+
+[params]
+  BookTheme = "auto"
+  BookSection = "book"
+  BookSearch = true
+  BookComments = false
+  BookPortableLinks = true
+  BookServiceWorker = true
